@@ -1,4 +1,4 @@
-# util4j
+# utils4j
 utilities for java
 common tools for java, include:
   UtilJdbc
